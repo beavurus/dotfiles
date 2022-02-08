@@ -1,0 +1,1 @@
+/home/beavurus/.dotfiles/zdotdir/.zprezto/runcoms/zshrc

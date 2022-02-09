@@ -1,6 +1,3 @@
 [submodule ".zprezto"]
 	path = .zprezto
 	url = git@github.com:beavurus/prezto.git
-[submodule "zsh.d/zplug"]
-	path = zsh.d/zplug
-	url = git@github.com:zplug/zplug.git
